@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap');
+
+.description__title {
+    text-align: center;
+    font-family: Skranji;
+    font-size: 30px;
+}
+
+.description__paragraph {
+    text-align: center;
+    font-family: Skranji;
+    font-size: 12px;
+
+}
+
+.img {
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+
+.img__style {
+    width: 15%;
+    height: 10%;
+}
